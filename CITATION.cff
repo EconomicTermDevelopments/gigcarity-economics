@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Gigcarity: A Computational Framework for Labor Economics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/gigcarity-economics"
+keywords:
+  - economics
+  - gigcarity
+  - labor-economics
+  - computational-framework
+  - emerging-terminology
+abstract: "Gigcarity is defined here as the precarious economic conditions experienced by gig economy workers, characterized by income volatility, lack of employment benefits and protections, algorithmic management systems that shift risk to workers, and the absence of collective bargaining power typical of traditional employment relationships. This paper develops Gigcarity as a computational framework for labor economics by linking the concept to structural precarity in gig and platform-mediated labor markets, formalizing income volatility, weak protections, and algorithmic control shifting market risk to workers, and operationalizing Gigcarity with a transparent index built from channels such as income volatility, benefit gap, schedule instability, and algorithmic control, while also showing how Gigcarity can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

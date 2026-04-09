@@ -1,0 +1,26 @@
+{
+  "term": "Gigcarity",
+  "definition": "The precarious economic conditions experienced by gig economy workers, characterized by income volatility, lack of employment benefits and protections, algorithmic management systems that shift risk to workers, and the absence of collective bargaining power typical of traditional employment relationships.",
+  "etymology": "Portmanteau of \"gig\" (short-term, flexible work arrangements mediated by digital platforms) + \"precarity\" (from Latin precarius, meaning \"obtained by entreaty, uncertain\"). The term elegantly fuses the employment model with its characteristic instability, creating a concise label for a widely-discussed but verbosely-described phenomenon.",
+  "field": "Labor Economics",
+  "subfields": [
+    "Labor Economics",
+    "Platform Economics / Digital Economy",
+    "Behavioral Economics"
+  ],
+  "jel_codes": [
+    "J81",
+    "J88",
+    "L86"
+  ],
+  "synonyms": [
+    "gig-work precarity"
+  ],
+  "related_concepts": [
+    "Precarious work",
+    "Algorithmic management",
+    "Platform labor risk"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}

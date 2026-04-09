@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Gigcarity",
+  "description": "The precarious economic conditions experienced by gig economy workers, characterized by income volatility, lack of employment benefits and protections, algorithmic management systems that shift risk to workers, and the absence of collective bargaining power typical of traditional employment relationships.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "J81"
+}
